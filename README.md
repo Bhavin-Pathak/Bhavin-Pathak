@@ -10,6 +10,5 @@ Hello There !! I'm <b>BHAVIN</b> 👋<br>Enthusiastic Mobile Application develop
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-# 📊
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin-Pathak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
