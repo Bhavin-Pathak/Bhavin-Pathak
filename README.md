@@ -1,7 +1,7 @@
 
 Hello There !! 
 I'm <b>BHAVIN</b> 👋
-<br>Enthusiastic Mobile Application developer with an experience of 1.5+ years specializing in Flutter And iOS.<br><br>🔭 I’m currently working on Flutter <br>🌱 I’m currently exploring open source projects of interest.<br>💬 Ask me about Dart / Flutter<br>📫 How to reach me:
+<br>Enthusiastic Mobile Application developer with an experience of 1.5+ years specializing in iOS. (SWIFTUI)<br><br>🔭 I’m currently working on Flutter <br>🌱 I’m currently exploring open source projects of interest.<br>💬 Ask me about Dart / Flutter<br>📫 How to reach me:
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bhavinpathak100/)
