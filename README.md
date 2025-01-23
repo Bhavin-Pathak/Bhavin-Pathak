@@ -7,7 +7,7 @@
 - 💬 Ask me about Android, iOS, Flutter or Javascript tech related Stuff.
 - 📫 How to reach me: Check social links below.
 
-## 🌐 Socials:
+## 📱 Socials:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
@@ -42,7 +42,7 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
 
-## Operating Systems:
+## 💻 Operating Systems:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
@@ -52,26 +52,26 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-## Deployments:
+## 🛒 Deployments:
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)
 [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
-## GitHub Stats
+## ✏️ GitHub Stats
 
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhavin-Pathak&show_icons=true&theme=react" />
 </p>
 
-## Github Profile Card
+## ⭐ Github Profile Card
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavin-Pathak&theme=react"/>
 </p>
 <br/>
 
-## Top Languages Used For Development
+## ⌨️ Top Languages Used For Development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin-Pathak)
