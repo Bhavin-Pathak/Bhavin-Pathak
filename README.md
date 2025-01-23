@@ -74,4 +74,14 @@
 
 ## ⌨️ Top Languages Used For Development
 
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin-Pathak)
+
+</div>
+
+<div align="center">
+
+## SHOW SOME ❤️ BY STARRING SOME OF THE REPOSITORIES !!
+
+</div>
