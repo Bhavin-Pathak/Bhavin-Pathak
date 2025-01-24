@@ -1,20 +1,19 @@
 ### Hello There, I'm BHAVIN PATHAK !! 👋
 
-- 😄 Pronouns: He/His.
-- 🔭 I’m Currently Working As Software Developer at @Meril Group Of Company In Vapi.
+- 🔭 I’m Currently Working As Software Developer at @Meril Group Of Company.
 - 🌱 I’m Currently Learning AI Machine Learning...
 - 👯 I’m Currently Exploring Opensource Projects of interest.
-- 💬 Ask me about Android, iOS, Flutter or Javascript tech related Stuff.
+- 💬 Ask me about Android, iOS, Flutter tech related Stuff.
 - 📫 How to reach me: Check social links below.
 
 ## 📱 Socials:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/bhavin-pathak)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bhavinpathak29@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/btw_its_bhaviin/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bhavinpathak2000/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/bhaviinpathak)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/bhavinpathak8729/)
 
 ## 🧑‍💻 Stacks:
 
@@ -46,11 +45,11 @@
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 
 ## 🛒 Deployments:
 
@@ -59,24 +58,24 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
-## ✏️ GitHub Stats
+## ✏️ GitHub Stats:
 
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhavin-Pathak&show_icons=true&theme=react" />
 </p>
 
-## ⭐ Github Profile Card
+## ⭐ Github Profile Card:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavin-Pathak&theme=react"/>
 </p>
 <br/>
 
-## ⌨️ Top Languages Used For Development
+## ⌨️ Languages Used For Development:
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin-Pathak)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin-Pathak&theme=react)
 
 </div>
 
