@@ -4,14 +4,13 @@
 - 🌱 I’m Currently Learning AI Machine Learning...
 - 👯 I’m Currently Exploring Opensource Projects of interest.
 - 💬 Ask me about Android, iOS, Flutter tech related Stuff.
-- 📫 How to reach me.
+- 📫 How to reach me: Check social links below.
 
 ## 📱 Socials:
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/bhavin-pathak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bhavinpathak29@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/btw_its_bhaviin/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/bhavin-pathak/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bhavinpathak2000/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/btw_its_bhaviin/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/bhaviinpathak)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/bhavinpathak8729/)
 
@@ -61,7 +60,7 @@
 ## ✏️ GitHub Stats:
 
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhavin-Pathak&show_icons=true&theme=react" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Bhavin-Pathak&show_icons=true&theme=react" />
 </p>
 
 ## ⭐ Github Profile Card:
