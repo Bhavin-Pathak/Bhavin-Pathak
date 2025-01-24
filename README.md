@@ -4,7 +4,7 @@
 - 🌱 I’m Currently Learning AI Machine Learning...
 - 👯 I’m Currently Exploring Opensource Projects of interest.
 - 💬 Ask me about Android, iOS, Flutter tech related Stuff.
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me.
 
 ## 📱 Socials:
 
