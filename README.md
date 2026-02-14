@@ -7,21 +7,7 @@
   <br />
   Passionate about Mobile & Software Development.
   <br /><br />
-  <a href="https://bhaviinpathak.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=flat&logo=About.me&logoColor=black" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/bhavin-pathak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/bhavinpathak8729/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:bhavinpathak29@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://bhaviinpathak.online" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=flat&logo=About.me&logoColor=black" alt="Portfolio" /></a>&nbsp;<a href="https://linkedin.com/in/bhavin-pathak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://leetcode.com/u/bhavinpathak8729/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>&nbsp;<a href="mailto:bhavinpathak29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 ---
@@ -113,6 +99,8 @@
 
 <div align="center">
   <h3>Thanks for visiting!</h3>
+  If you find my projects helpful, please consider giving them a star! ⭐
+  <br /><br />
   <img src="https://komarev.com/ghpvc/?username=Bhavin-Pathak&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <br />
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100px" alt="Footer Animation">
